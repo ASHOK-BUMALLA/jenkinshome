@@ -1,0 +1,6 @@
+Started by user [8mha:////4FVoQNdpRLXV3JfKuodYcshcJFl9egOQAk4kEPQqHzxLAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94vzSouRUAM0V9c/BAAAA[0msource
+Building in workspace /var/lib/jenkins/workspace/sjob3
+[sjob3] $ /bin/sh -xe /tmp/jenkins4996243973344618806.sh
++ echo /var/lib/jenkins
+/var/lib/jenkins
+Finished: SUCCESS

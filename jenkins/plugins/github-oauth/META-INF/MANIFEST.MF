@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.1
+Plugin-Dependencies: caffeine-api:2.9.2-29.v717aac953ff3,workflow-mult
+ ibranch:696.v52535c46f4c9,git:4.10.1,github-api:1.301-378.v9807bd746d
+ a5,github-branch-source:2.11.4,jackson2-api:2.13.1-246.va8a9f3eaf46a,
+ mailer:391.ve4a_38c1b_cf4b_,matrix-project:1.19
+Implementation-Title: github-oauth
+Long-Name: GitHub Authentication plugin
+Implementation-Version: 0.37
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: A Jenkins authentication plugin that delegates to
+  GitHub.  We also implement an Authorization Strategy that uses the a
+ cquired OAuth token to interact with the GitHub API to determine a us
+ er's level of access to Jenkins.
+Plugin-ScmUrl: https://github.com/jenkinsci/github-oauth-plugin
+Plugin-Version: 0.37
+Jenkins-Version: 2.289.1
+Url: https://github.com/jenkinsci/github-oauth-plugin
+Short-Name: github-oauth
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Compatible-Since-Version: 0.3
+Plugin-Developers: Sam Gleske:sag47:sam.mxracer@gmail.com
+Extension-Name: github-oauth
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.1
+
